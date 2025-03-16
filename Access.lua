@@ -12,6 +12,7 @@ return {
     { Username = "Littlecutiebeyonce" },
     { Username = "joeyvene" },
     { Username = "aliasney" },
+    { Username = "BrutalPizzza" },
     { Username = "TheSupremeWanda" }
 }
 
