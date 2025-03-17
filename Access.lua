@@ -16,7 +16,3 @@ return {
     { Username = "BrutalPizzza" },
     { Username = "TheSupremeWanda" }
 }
-
-
-
-stupid_girl12315
